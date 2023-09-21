@@ -9,7 +9,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(/fundo.png);
+  background-image: url(/fundo.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
