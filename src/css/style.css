@@ -9,7 +9,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(/fundo.webp);
+  background-image: url(/fundo.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -102,6 +102,7 @@ main {
 }
 
 .links-eventos {
+  max-width: 500px;
 }
 
 .links-eventos img {
